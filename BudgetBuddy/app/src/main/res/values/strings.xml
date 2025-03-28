@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Budget Buddy</string>
+    <string name="home">Home</string>
+    <string name="transactions">Transactions</string>
+    <string name="stats">Stats</string>
+    <string name="profile">Profile</string>
+</resources>
